@@ -40,7 +40,7 @@ class Mainwindow:
 
         self.prompt = """ Here are test name, price and TAT. Answer the user question base on this information
                         gluten test:
-                        price: $220
+                        price: $120
                         TAT: 5 business days,
                         Salmonella test:
                         price: $170
