@@ -11,6 +11,7 @@ it is recomande to create python virtual environment first
 py -m venv my_env
 
 start virtual environment 
+
 my_env\Scripts\activate
 
 installing requirment modules
