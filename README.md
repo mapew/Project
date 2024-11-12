@@ -32,7 +32,7 @@ Create new user window
 
 ![new](https://github.com/user-attachments/assets/5d64e873-bc23-44de-adce-e7a72d0b1453)
 
-main AI qustion window (the API key show in image is fake API key please get API key from google website)
+AI question window (the API key show in image is fake API key please get API key from google website)
 
 ![main](https://github.com/user-attachments/assets/47cde289-86b7-46f9-9876-c38dcb8d55aa)
 
