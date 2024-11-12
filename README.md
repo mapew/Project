@@ -2,7 +2,7 @@
 
 This project will have login window, create new window and main winodw
 
-This app will create new user and answer question for TAT and price for tests base on the information provied by prompt.
+This app will create new user and AI (LLM) will answer question for TAT and price for tests base on the information provied by prompt.
 
 the requirements modules are save on requirements.txt
 
