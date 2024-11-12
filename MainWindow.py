@@ -49,13 +49,13 @@ class Mainwindow:
                         price: $ 150
                         TAT: 3 days
                         heavy metals test:
-                        price: $110
+                        price: $310
                         TAT: 5 Business days,
                         e.coli test:
-                        price: $20
+                        price: $320
                         TAT: 3 Business days,
                         total coliforms test:
-                        price: $20
+                        price: $320
                         TAT: 3 Business days,
                         """
 
