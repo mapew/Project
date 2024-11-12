@@ -8,15 +8,15 @@ the requirements modules are save on requirements.txt
 
 it is recomande to create python virtual environment first
 
-py -m venv my_env
+  py -m venv my_env
 
 start virtual environment 
 
-my_env\Scripts\activate
+  my_env\Scripts\activate
 
 installing requirment modules
 
-pip install -r requirements.txt
+  pip install -r requirements.txt
 
 this app need google ai API key
 
