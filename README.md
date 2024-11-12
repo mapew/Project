@@ -16,4 +16,4 @@ this app need google ai API key
 
 you can get the API key from https://ai.google.dev/gemini-api/docs/api-key
 
-this app will answer question for TAT and price for tests
+this app will create new user and answer question for TAT and price for tests base on the information provied by pr
