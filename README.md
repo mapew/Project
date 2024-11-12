@@ -8,7 +8,7 @@ the requirements modules are save on requirements.txt
 
 showdata.py will show all the data in database
 
-it is recomande to create python virtual environment first
+it is recommander to create python virtual environment first
 
   py -m venv my_env
 
