@@ -18,7 +18,7 @@ installing requirment modules
 
   pip install -r requirements.txt
 
-this app need google ai API key
+this app needs google ai API key
 
 you can get the API key from https://ai.google.dev/gemini-api/docs/api-key
 
