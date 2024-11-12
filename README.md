@@ -8,6 +8,8 @@ it is recomande to create python virtual environment first
 
 py -m venv my_env
 
+installing requirment modules
+
 pip install -r requirements.txt
 
 this app need google ai API key
