@@ -40,13 +40,13 @@ class Mainwindow:
 
         self.prompt = """ Here are test name, price and TAT. Answer the user question base on this information
                         gluten test:
-                        price: $120
+                        price: $220
                         TAT: 5 business days,
                         Salmonella test:
-                        price: $70
+                        price: $170
                         TAT: 3 days,
                         Listeria test:
-                        price: $ 50
+                        price: $ 150
                         TAT: 3 days
                         heavy metals test:
                         price: $110
